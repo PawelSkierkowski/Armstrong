@@ -1,0 +1,13 @@
+C:\Users\pawel\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\Amstrong.exe
+C:\Users\pawel\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\Amstrong.deps.json
+C:\Users\pawel\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\Amstrong.runtimeconfig.json
+C:\Users\pawel\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\Amstrong.runtimeconfig.dev.json
+C:\Users\pawel\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\Amstrong.dll
+C:\Users\pawel\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\Amstrong.pdb
+C:\Users\pawel\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\Amstrong.AssemblyInfoInputs.cache
+C:\Users\pawel\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\Amstrong.AssemblyInfo.cs
+C:\Users\pawel\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\Amstrong.csproj.CoreCompileInputs.cache
+C:\Users\pawel\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\Amstrong.dll
+C:\Users\pawel\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\Amstrong.pdb
+C:\Users\pawel\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\Amstrong.genruntimeconfig.cache
+C:\Users\pawel\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\Amstrong.csprojAssemblyReference.cache
